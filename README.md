@@ -1,5 +1,3 @@
-# sistema-bancario-java
-Sistema bancário desenvolvido em Java utilizando Programação Orientada a Objetos (POO), com aplicação de herança, encapsulamento e regras de negócio.
 
 # 💳 Sistema Bancário em Java
 
@@ -72,7 +70,7 @@ src/
 2.Abra o projeto em uma IDE (IntelliJ, Eclipse ou VS Code)
 3.Compile e execute a aplicação
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 ### Este projeto foi desenvolvido com foco em:
 
